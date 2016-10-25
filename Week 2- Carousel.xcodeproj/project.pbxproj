@@ -11,6 +11,8 @@
 		3D341E941DBD567800402329 /* ConversationsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D341E931DBD567800402329 /* ConversationsViewController.swift */; };
 		3D341E961DBD621300402329 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D341E951DBD621300402329 /* SettingsViewController.swift */; };
 		3D341E981DBD6C6800402329 /* CarouselViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D341E971DBD6C6800402329 /* CarouselViewController.swift */; };
+		3D341E9A1DBEDA0A00402329 /* CreateDropboxViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D341E991DBEDA0A00402329 /* CreateDropboxViewController.swift */; };
+		3D341E9C1DBEEDDA00402329 /* UIWebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D341E9B1DBEEDDA00402329 /* UIWebViewController.swift */; };
 		3DEDA0CD1DB843C2009B9F6A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DEDA0CC1DB843C2009B9F6A /* AppDelegate.swift */; };
 		3DEDA0CF1DB843C2009B9F6A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DEDA0CE1DB843C2009B9F6A /* ViewController.swift */; };
 		3DEDA0D21DB843C2009B9F6A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DEDA0D01DB843C2009B9F6A /* Main.storyboard */; };
@@ -45,6 +47,8 @@
 		3D341E931DBD567800402329 /* ConversationsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConversationsViewController.swift; sourceTree = "<group>"; };
 		3D341E951DBD621300402329 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		3D341E971DBD6C6800402329 /* CarouselViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CarouselViewController.swift; sourceTree = "<group>"; };
+		3D341E991DBEDA0A00402329 /* CreateDropboxViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateDropboxViewController.swift; sourceTree = "<group>"; };
+		3D341E9B1DBEEDDA00402329 /* UIWebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIWebViewController.swift; sourceTree = "<group>"; };
 		3DEDA0C91DB843C2009B9F6A /* Week 2- Carousel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Week 2- Carousel.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DEDA0CC1DB843C2009B9F6A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3DEDA0CE1DB843C2009B9F6A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -91,6 +95,8 @@
 		3DEDA0C01DB843C1009B9F6A = {
 			isa = PBXGroup;
 			children = (
+				3D341E9B1DBEEDDA00402329 /* UIWebViewController.swift */,
+				3D341E991DBEDA0A00402329 /* CreateDropboxViewController.swift */,
 				3DEDA0CB1DB843C2009B9F6A /* Week 2- Carousel */,
 				3DEDA0E01DB843C2009B9F6A /* Week 2- CarouselTests */,
 				3DEDA0EB1DB843C2009B9F6A /* Week 2- CarouselUITests */,
@@ -285,6 +291,8 @@
 				3D341E941DBD567800402329 /* ConversationsViewController.swift in Sources */,
 				3D341E921DBC26FF00402329 /* scrollWelcomeViewController.swift in Sources */,
 				3DEDA0CD1DB843C2009B9F6A /* AppDelegate.swift in Sources */,
+				3D341E9C1DBEEDDA00402329 /* UIWebViewController.swift in Sources */,
+				3D341E9A1DBEDA0A00402329 /* CreateDropboxViewController.swift in Sources */,
 				3DEDA0FF1DB84FCA009B9F6A /* LoginViewController.swift in Sources */,
 				3DEDA0FD1DB84D90009B9F6A /* IntroViewController.swift in Sources */,
 				3D341E981DBD6C6800402329 /* CarouselViewController.swift in Sources */,
