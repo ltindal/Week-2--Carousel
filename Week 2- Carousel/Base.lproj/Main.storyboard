@@ -329,6 +329,7 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
+                    <navigationItem key="navigationItem" id="Dks-EF-BPG"/>
                     <connections>
                         <outlet property="webView" destination="E5m-f8-tQq" id="lQu-Wx-W8X"/>
                     </connections>
@@ -604,6 +605,6 @@
         <simulatedScreenMetrics key="destination" type="retina4_0.fullscreen"/>
     </simulatedMetricsContainer>
     <inferredMetricsTieBreakers>
-        <segue reference="v4Z-4r-X9i"/>
+        <segue reference="pll-ZC-dvC"/>
     </inferredMetricsTieBreakers>
 </document>

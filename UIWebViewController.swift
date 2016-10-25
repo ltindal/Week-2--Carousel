@@ -27,7 +27,7 @@ class UIWebViewController: UIViewController {
 
     
     @IBAction func didPressDone(_ sender: AnyObject) {
-        navigationController?.popToRootViewController(animated: true)
+        dismiss(animated: true, completion: nil)
     }
 
 }
